@@ -84,6 +84,23 @@ SUPER:it is used to  write like first,second......
 <label> </label>                                              <input type="submit">
 
 
+PAIRED TAGS:It is a tag which contain both closing and opening tags
+            ex:<table></table>
+
+There are 3 types
+(i)Heading tags-6tags=h1(bigger)toh6(smaller)    h1-h6 (bigger) h7(default)
+(ii)Formatting tags-change the style of text  i=italic alter tag=em(empasis) b=bold alter tag=Strong  u=underline altr tags=stricke,marker superscript,subscript.
+(iii)Other tags-paragraph tag,division tag,span tag.
+
+UNPAIRED TAGS:It is a tag which contain only opening tag it is also self closing tag
+            ex:<br>
+There are 3types
+(i)Horizontal
+(ii)break
+(iii)image
+
+
+
 IMAGE- image is store here with size like width and height
        ex:<img src="https://st3.depositphotos.com/6101406/13170/i/600/depositphotos_131703764
           -stock-photo-foggy-sunrise-in-the-carpathian.jpg" alt="" srcset="" width="300.0px" 
