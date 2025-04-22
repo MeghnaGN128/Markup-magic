@@ -9,6 +9,12 @@ HEAD-there are 6types of head
          <h4>Hello</h4>
          <h5>Hello</h5>
          <h6>Hello</h6>
+META-it contain the browser details
+     ex: <meta charset="UTF-8">
+
+TITLE-the title of the web page, which appears in the browser's title bar or tab.
+     ex: <title>My Awesome Page</title>
+
 
 PARAGRAPH-used to write paragraph
       ex:<p>Hi guys good morning</p>
