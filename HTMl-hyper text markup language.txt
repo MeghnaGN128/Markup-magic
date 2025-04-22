@@ -99,8 +99,6 @@ There are 3types
 (ii)break
 (iii)image
 
-
-
 IMAGE- image is store here with size like width and height
        ex:<img src="https://st3.depositphotos.com/6101406/13170/i/600/depositphotos_131703764
           -stock-photo-foggy-sunrise-in-the-carpathian.jpg" alt="" srcset="" width="300.0px" 
